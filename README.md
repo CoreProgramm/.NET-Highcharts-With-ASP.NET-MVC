@@ -1,7 +1,7 @@
 # .NET-Highcharts-With-ASP.NET-MVC
 In this CoreProgramm you find that how to implement DotNet Highcharts with Asp.Net MVC application in Server Side.
 
-Isntall the package using Nuget Package manager Console;
+Install the package using Nuget Package manager Console;
 
 Install-Package DotNet.Highcharts
 
